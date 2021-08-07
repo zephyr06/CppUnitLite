@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/Failure.h
+SimpleString.h
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/SimpleString.h
+
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/SimpleString.h
+
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/Test.h
+cmath
+-
+SimpleString.h
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/SimpleString.h
+
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/TestHarness.h
+Test.h
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/Test.h
+TestResult.h
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/TestResult.h
+Failure.h
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/Failure.h
+TestRegistry.h
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/TestRegistry.h
+
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/TestRegistry.h
+
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/TestResult.h
+
+/home/zephyr/Programming/CppUnitLite-Cmake/test/src/testmain.cpp
+iostream
+-
+string
+-
+../CppUnitLite/TestHarness.h
+/home/zephyr/Programming/CppUnitLite-Cmake/test/CppUnitLite/TestHarness.h
+

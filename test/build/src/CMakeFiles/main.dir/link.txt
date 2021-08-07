@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/testmain.cpp.o  -o main -lCppUnitLite 

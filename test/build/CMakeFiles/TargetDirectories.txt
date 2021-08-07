@@ -1,0 +1,5 @@
+/home/zephyr/Programming/CppUnitLite-Cmake/test/build/CMakeFiles/rebuild_cache.dir
+/home/zephyr/Programming/CppUnitLite-Cmake/test/build/CMakeFiles/edit_cache.dir
+/home/zephyr/Programming/CppUnitLite-Cmake/test/build/src/CMakeFiles/rebuild_cache.dir
+/home/zephyr/Programming/CppUnitLite-Cmake/test/build/src/CMakeFiles/main.dir
+/home/zephyr/Programming/CppUnitLite-Cmake/test/build/src/CMakeFiles/edit_cache.dir
